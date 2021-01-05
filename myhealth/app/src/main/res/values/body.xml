@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="height">
+        <item>140cm</item><item>142cm</item><item>143cm</item><item>144cm</item><item>145cm</item>
+        <item>146cm</item><item>147cm</item><item>148cm</item><item>149cm</item><item>150cm</item>
+        <item>151cm</item><item>152cm</item><item>153cm</item><item>154cm</item><item>155cm</item>
+        <item>156cm</item><item>157cm</item><item>158cm</item><item>159cm</item><item>160cm</item>
+        <item>161cm</item><item>162cm</item><item>163cm</item><item>164cm</item><item>165cm</item>
+        <item>166cm</item><item>167cm</item><item>168cm</item><item>169cm</item><item>170cm</item>
+        <item>171cm</item><item>172cm</item><item>173cm</item><item>174cm</item><item>175cm</item>
+        <item>176cm</item><item>177cm</item><item>178cm</item><item>179cm</item><item>180cm</item>
+        <item>181cm</item><item>182cm</item><item>183cm</item><item>184cm</item><item>185cm</item>
+        <item>186cm</item><item>187cm</item><item>188cm</item><item>189cm</item><item>190cm</item>
+        <item>191cm</item><item>192cm</item><item>193cm</item><item>194cm</item><item>195cm</item>
+        <item>196cm</item><item>197cm</item><item>198cm</item><item>199cm</item><item>200cm</item>
+</string-array>
+    <string-array name="weight">
+        <item>40kg</item><item>42kg</item><item>43kg</item><item>44kg</item><item>45kg</item>
+        <item>46kg</item><item>47kg</item><item>48kg</item><item>49kg</item><item>50kg</item>
+        <item>51kg</item><item>52kg</item><item>53kg</item><item>54kg</item><item>55kg</item>
+        <item>56kg</item><item>57kg</item><item>58kg</item><item>59kg</item><item>60kg</item>
+        <item>61kg</item><item>62kg</item><item>63kg</item><item>64kg</item><item>65kg</item>
+        <item>66kg</item><item>67kg</item><item>68kg</item><item>69kg</item><item>70kg</item>
+        <item>71kg</item><item>72kg</item><item>73kg</item><item>74kg</item><item>75kg</item>
+        <item>76kg</item><item>77kg</item><item>78kg</item><item>79kg</item><item>80kg</item>
+        <item>81kg</item><item>82kg</item><item>83kg</item><item>84kg</item><item>85kg</item>
+        <item>86kg</item><item>87kg</item><item>88kg</item><item>89kg</item><item>90kg</item>
+        <item>91kg</item><item>92kg</item><item>93kg</item><item>94kg</item><item>95kg</item>
+    </string-array>
+    <string-array name="years">
+        <item>16岁</item><item>17岁</item><item>18岁</item><item>19岁</item><item>20岁</item>
+        <item>21岁</item><item>22岁</item><item>23岁</item><item>24岁</item><item>25岁</item>
+        <item>26岁</item><item>27岁</item><item>28岁</item><item>29岁</item><item>30岁</item>
+        <item>31岁</item><item>32岁</item><item>33岁</item><item>34岁</item><item>35岁</item>
+        <item>36岁</item><item>37岁</item><item>38岁</item><item>39岁</item><item>40岁</item>
+        <item>41岁</item><item>42岁</item><item>43岁</item><item>44岁</item><item>45岁</item>
+        <item>46岁</item><item>47岁</item><item>48岁</item><item>49岁</item><item>50岁</item>
+        <item>51岁</item><item>52岁</item><item>53岁</item><item>54岁</item><item>55岁</item>
+        <item>56岁</item><item>57岁</item><item>58岁</item><item>59岁</item><item>60岁</item>
+        <item>61岁</item><item>62岁</item><item>63岁</item><item>64岁</item><item>65岁</item>
+        <item>66岁</item><item>67岁</item><item>68岁</item><item>69岁</item><item>70岁</item>
+        <item>71岁</item><item>72岁</item><item>73岁</item><item>74岁</item><item>75岁</item>
+        <item>76岁</item><item>77岁</item><item>78岁</item><item>79岁</item><item>80岁</item>
+        <item>81岁</item><item>82岁</item><item>83岁</item><item>84岁</item><item>85岁</item>
+        <item>86岁</item><item>87岁</item><item>88岁</item><item>89岁</item><item>90岁</item>
+        <item>91岁</item><item>92岁</item><item>93岁</item><item>94岁</item><item>95岁</item>
+        <item>96岁</item><item>97岁</item><item>98岁</item><item>99岁</item><item>100岁</item>
+    </string-array>
+
+</resources>

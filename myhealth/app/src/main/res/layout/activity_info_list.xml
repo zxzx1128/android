@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".food_list.InfoListActivity"
+    android:background="@mipmap/home_page2">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:padding="10dp"
+        android:background="#e0000000"
+        >
+        <TextView
+            android:id="@+id/fooddesc_iv_back4"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:text="&#060;返回"
+            android:textColor="@color/WHITE"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            >
+        </TextView>
+       <TextView
+           android:id="@+id/info_iv_flush"
+           android:layout_alignParentRight="true"
+           android:layout_centerVertical="true"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginRight="20dp"
+           android:text="刷新"
+           android:textStyle="bold"
+           android:textColor="@color/WHITE"
+           android:textSize="15dp"
+           ></TextView>
+
+        <TextView
+            android:id="@+id/info_iv_search"
+            android:layout_toLeftOf="@id/info_iv_flush"
+            android:layout_marginRight="20dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="搜索"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/WHITE"
+            ></TextView>
+        <EditText
+            android:id="@+id/info_et_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/info_et_bg"
+            android:layout_toRightOf="@+id/fooddesc_iv_back4"
+            android:layout_toLeftOf="@id/info_iv_search"
+            android:paddingLeft="20dp"
+
+            android:layout_centerVertical="true"
+            android:textColor="@color/WHITE">
+        </EditText>
+
+    </RelativeLayout>
+    <ListView
+        android:id="@+id/info_list_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#32CDF9"
+        android:dividerHeight="2dp"
+        android:background="#e0000000"
+        >
+
+    </ListView>
+</LinearLayout>

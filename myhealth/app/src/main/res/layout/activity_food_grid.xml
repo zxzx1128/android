@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".food_grid.FoodGridActivity"
+    android:background="@drawable/item_gridbg">
+    <RelativeLayout
+        android:id="@+id/food_grid_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#000">
+        <TextView
+            android:id="@+id/fooddesc_iv_back2"
+            android:layout_width="80dp"
+            android:layout_height="40dp"
+            android:text="&#060;返回"
+            android:textColor="@color/WHITE"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            >
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="健康食物一览表"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/WHITE"></TextView>
+    </RelativeLayout>
+    <GridView
+        android:id="@+id/food_grid_gv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2">
+
+    </GridView>
+</LinearLayout>
